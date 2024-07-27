@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ThePrince-Verma/ecom-web/static/css/main.e6c13ad2.css",
+    "main.js": "/ThePrince-Verma/ecom-web/static/js/main.a285915a.js",
+    "static/js/453.e8224fd5.chunk.js": "/ThePrince-Verma/ecom-web/static/js/453.e8224fd5.chunk.js",
+    "index.html": "/ThePrince-Verma/ecom-web/index.html",
+    "main.e6c13ad2.css.map": "/ThePrince-Verma/ecom-web/static/css/main.e6c13ad2.css.map",
+    "main.a285915a.js.map": "/ThePrince-Verma/ecom-web/static/js/main.a285915a.js.map",
+    "453.e8224fd5.chunk.js.map": "/ThePrince-Verma/ecom-web/static/js/453.e8224fd5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.a285915a.js"
+  ]
+}
