@@ -1,6 +1,6 @@
 {
-  "homepage": "https://github.com/ThePrince-Verma/Ecommerce-website-verma-store",
-  "name": "Ecommerce-website-verma-store",
+
+  "name": "ecom-web",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
